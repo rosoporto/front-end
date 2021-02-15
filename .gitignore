@@ -1,0 +1,6 @@
+*.sass
+.git/*
+
+/bin
+/admin
+/config
